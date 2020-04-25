@@ -2,8 +2,6 @@
 
 A new Flutter project.
 
-![Image of app](https://github.com/joshh152/Eatini/blob/master/assets/images/s1.jpg =250x250) ![Image of app2](https://github.com/joshh152/Eatini/blob/master/assets/images/s2.jpg | width=70)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
