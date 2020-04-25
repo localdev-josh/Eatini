@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Image of app](https://github.com/joshh152/Eatini/tree/master/assets/images/s1.jpg) ![Image of appTwo](https://github.com/joshh152/Eatini/tree/master/assets/images/s1.jpg)
+![Image of app](https://github.com/joshh152/Eatini/tree/master/assets/images/s1.jpg)
 
 ## Getting Started
 
