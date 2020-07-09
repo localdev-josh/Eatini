@@ -21,7 +21,7 @@ Star⭐ the repo if you like what you see😉
 
 
 ## 🤓 Author(s)
-**Ajiboy Joshua Oluwaseun** [![Twitter Follow](https://img.shields.io/twitter/follow/localdev_.svg?style=social)](https://twitter.com/localdev_)
+**Ajiboye Joshua Oluwaseun** [![Twitter Follow](https://img.shields.io/twitter/follow/localdev_.svg?style=social)](https://twitter.com/localdev_)
 
 
 ## 🔖 LICENCE
